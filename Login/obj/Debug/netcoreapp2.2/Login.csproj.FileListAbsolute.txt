@@ -1,0 +1,14 @@
+C:\Users\Boy\Desktop\DotNET CORE\Login\bin\Debug\netcoreapp2.2\Login.deps.json
+C:\Users\Boy\Desktop\DotNET CORE\Login\bin\Debug\netcoreapp2.2\Login.runtimeconfig.json
+C:\Users\Boy\Desktop\DotNET CORE\Login\bin\Debug\netcoreapp2.2\Login.runtimeconfig.dev.json
+c:\Users\Boy\Desktop\DotNET CORE\Login\bin\Debug\netcoreapp2.2\Login.dll
+c:\Users\Boy\Desktop\DotNET CORE\Login\bin\Debug\netcoreapp2.2\Login.pdb
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.csprojAssemblyReference.cache
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.csproj.CoreCompileInputs.cache
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.RazorAssemblyInfo.cache
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.RazorAssemblyInfo.cs
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.AssemblyInfoInputs.cache
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.AssemblyInfo.cs
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.RazorTargetAssemblyInfo.cache
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.dll
+c:\Users\Boy\Desktop\DotNET CORE\Login\obj\Debug\netcoreapp2.2\Login.pdb
